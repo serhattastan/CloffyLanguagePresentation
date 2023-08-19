@@ -24,3 +24,6 @@ Cloffy Language is an English-Turkish word matching game. With this mobile appli
 - Firebase (Authentication, Realtime Database or Firestore)
 - Google Play Services
 - Material Components
+
+## Download
+- https://play.google.com/store/apps/details?id=com.cloffygames.cloffylanguage
