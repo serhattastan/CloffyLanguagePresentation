@@ -13,15 +13,8 @@ Cloffy Language is an English-Turkish word matching game. With this mobile appli
 - Firebase integration for database operations
 
 ## Screenshots
+![1692221526877](https://github.com/serhattastan/CloffyLanguageKotlin/assets/87541365/696a24e6-5b5e-49c2-92be-5fed3c42323e)
 
-![Home Screen](screenshots/home_screen.png)
-_Home Screen_
-
-![Game Screen](screenshots/game_screen.png)
-_Game Screen_
-
-![Settings Screen](screenshots/settings_screen.png)
-_Settings Screen_
 
 
 ## Technologies and Libraries Used
