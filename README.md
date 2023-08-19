@@ -1,6 +1,7 @@
 # Cloffy Language - English-Turkish Word Matching Game
 
 ![Logo](app/src/main/res/drawable/logo.png)
+![background_logo](https://github.com/serhattastan/CloffyLanguageKotlin/assets/87541365/d3614b6f-af46-44e0-82b3-b602f773fec2)
 
 Cloffy Language is an English-Turkish word matching game. With this mobile application, you can improve your English vocabulary and learn new words in a fun way.
 
